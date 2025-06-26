@@ -5,9 +5,12 @@ All CAD files related to the A4T toolhead are derivative works of the original d
 
 ## BOM
 
-X-Acto #11 blade
-1× ballpen spring (raid your junk drawer)
-1× M2 heatsert (4mm length 3.5mm OD insert)
-1× [M2 flanged insert](https://www.aliexpress.us/item/3256805916934018.html)
-1× M3 heatsert (5mm OD, 4mm length) *OR* M2 heatsert (4mm length 3.5mm OD insert)
-1× M3x14mm rod
+| **Item**                    | **Quantity** | **Description / Notes**                                                 |
+| --------------------------- | ------------ | ----------------------------------------------------------------------- |
+| X-Acto #11 blade            | 1            | Standard hobby knife blade                                              |
+| Ballpen spring              | 1            | Salvaged from a pen or junk drawer                                      |
+| M2 heatsert                 | 1            | 4mm length, 3.5mm OD insert                                             |
+| M2 flanged insert           | 1            | [AliExpress link](https://www.aliexpress.us/item/3256805916934018.html) |
+| M3 heatsert *(alternative)* | 1            | 5mm OD, 4mm length – OR use additional M2 heatsert (same as above)      |
+| M3 x 14mm rod               | 1            | Metal rod, 3mm diameter, 14mm length                                    |
+
